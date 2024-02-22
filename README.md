@@ -1,7 +1,7 @@
 # Relational Database | Build a World Cup Database
 (freeCodeCamp curriculum)
 ##  For this project, I have created a Bash script that enters information from World Cup games .csv into PostgreSQL, then a Bash script that queries the database for useful statistics.
-### Steps and user stories:
+### Project tasks and user stories:
 You start with several files, one of them is games.csv. It contains a comma-separated list of all games of the final three rounds of the World Cup tournament since 2014; You need to do three things for this project:
 
 #### Part 1: Create the database
