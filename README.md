@@ -17,7 +17,7 @@ You start with several files, one of them is games.csv. It contains a comma-sepa
 Complete the empty echo commands in the queries.sh file to produce output that matches the expected_output.txt file. The first query is completed for you. Use the PSQL variable defined to complete rest of the queries. Note that you need to have your database filled with the correct data from the script to get the correct results from your queries. Hint: Test your queries in the psql prompt first and then add them to the script file.
 
 
-Complete the tasks below
+#### Complete the tasks below
 
  - You should create a database named worldcup
 
