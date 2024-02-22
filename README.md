@@ -41,4 +41,4 @@ Complete the tasks below
 
 -    You should correctly complete the queries in the queries.sh file. Fill in each empty echo command to get the output of what is suggested with the command above it. Only use a single line like the first query. The output should match what is in the expected_output.txt file exactly, take note of the number of decimal places in some of the query results
 
-Solution files: [worldcup.sql](https://github.com/Rami24t/Build-a-World-Cup-Database-fCC-project/blob/main/worldcup.sql), (insert_data.sh)[https://github.com/Rami24t/Build-a-World-Cup-Database-fCC-project/blob/main/insert_data.sh], queries.sh
+Solution files: [worldcup.sql](https://github.com/Rami24t/Build-a-World-Cup-Database-fCC-project/blob/main/worldcup.sql), [insert_data.sh](https://github.com/Rami24t/Build-a-World-Cup-Database-fCC-project/blob/main/insert_data.sh), [queries.sh](https://github.com/Rami24t/Build-a-World-Cup-Database-fCC-project/blob/main/queries.sh)
