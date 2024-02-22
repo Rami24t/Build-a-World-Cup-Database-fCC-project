@@ -6,9 +6,7 @@ You start with several files, one of them is games.csv. It contains a comma-sepa
 
 #### Part 1: Create the database
 
-- Log into the psql interactive terminal with psql --username=freecodecamp --dbname=postgres and create your database structure according to the user stories below.
-
-- Don't forget to connect to the database after you create it.
+- Log into the psql interactive terminal and create your database structure according to the user stories below.
 
 #### Part 2: Insert the data
 
