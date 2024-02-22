@@ -19,7 +19,7 @@ Complete the empty echo commands in the queries.sh file to produce output that m
 
 Complete the tasks below
 
- -     You should create a database named worldcup
+ - You should create a database named worldcup
 
  -    You should connect to your worldcup database and then create teams and games tables
 
